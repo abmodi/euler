@@ -1,0 +1,10 @@
+*.idea
+*.iml
+*.orig
+*.iws
+*.project
+*.classpath
+*.svn
+.idea
+build
+target
